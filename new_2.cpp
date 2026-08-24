@@ -1,5 +1,0 @@
-//
-// Created by muazt on 02/05/2025hh.
-//
-
-#include "new_2.h"
